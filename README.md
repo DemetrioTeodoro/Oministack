@@ -1,5 +1,5 @@
 # Oministack
-![Screenshot](Login.png)
-![Screenshot](Profile.png)
-![Screenshot](Incidents.png)
-![Screenshot](Register.png)
+![Screenshot](preview/Login.png)
+![Screenshot](preview/Profile.png)
+![Screenshot](preview/Incidents.png)
+![Screenshot](preview/Register.png)
